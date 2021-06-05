@@ -4,6 +4,14 @@ public class GithubVO {
 
 	String id;
 	String pw;
+	
+	public GithubVO() {
+		// TODO Auto-generated constructor stub
+		
+		System.out.println("by issue2");
+	}
+	
+	
 	public String getId() {
 		return id;
 	}
@@ -20,6 +28,5 @@ public class GithubVO {
 	public String toString() {
 		return "GithubVO [id=" + id + ", pw=" + pw + "]";
 	}
-	
 	
 }
