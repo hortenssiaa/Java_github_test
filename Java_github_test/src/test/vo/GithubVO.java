@@ -16,6 +16,10 @@ public class GithubVO {
 	public void setPw(String pw) {
 		this.pw = pw;
 	}
+	@Override
+	public String toString() {
+		return "GithubVO [id=" + id + ", pw=" + pw + "]";
+	}
 	
 	
 }
