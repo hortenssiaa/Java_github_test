@@ -7,6 +7,8 @@ public class Githib_test {
 		System.out.println("this is the first commit!");
 		
 		System.out.println("branch issue3 test");
+		
+		System.out.println("branch issue3 pull and merge test");
 	}
 
 }
