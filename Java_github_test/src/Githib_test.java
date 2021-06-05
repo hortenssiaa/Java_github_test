@@ -5,6 +5,8 @@ public class Githib_test {
 		// TODO Auto-generated method stub
 		
 		System.out.println("this is the first commit!");
+		
+		System.out.println("branch issue2 test");
 	}
 
 }
