@@ -10,6 +10,8 @@ public class Githib_test {
 		System.out.println("branch issue3 test");
 		
 		System.out.println("위에는 pull 해서 받아온것이고, 수정하여 master에 push");
+		
+		System.out.println("branch issue3 pull and merge test");
 	}
 
 }
